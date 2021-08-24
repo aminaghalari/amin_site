@@ -10,9 +10,7 @@ authors:
   - Mohammad Marufuzzaman
 author_notes: []
 publication: In *International Journal of Production Economics*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
