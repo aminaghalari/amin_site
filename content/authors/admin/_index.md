@@ -1,7 +1,7 @@
 ---
 title: Amin Aghalari
 role: Ph.D. student in Industrial and Systems Engineering
-avatar_filename: amin.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include or stochastic optimization.
 interests:
   - discrete and stochastic optimization
