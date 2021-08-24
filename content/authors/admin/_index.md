@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Amin Aghalari
 role: Professor of Artificial Intelligence
 avatar_filename: amin.jpg
 bio: My research interests include or
