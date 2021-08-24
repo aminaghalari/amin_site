@@ -4,11 +4,11 @@ role: Ph.D. student in Industrial and Systems Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include or stochastic optimization.
 interests:
-  - discrete and stochastic optimization
-  - data analytics and statistical learning
-  - data-driven decision making
-  - parallel computing
-  - and heuristics techniques
+  - Discrete and Stochastic optimization
+  - Data analytics and statistical learning
+  - Data-driven decision making
+  - Parallel computing
+  - Heuristics algorithms
 social:
   - icon: envelope
     icon_pack: fas
