@@ -4,9 +4,11 @@ role: Ph.D. student in Industrial and Systems Engineering
 avatar_filename: amin.jpg
 bio: My research interests include or stochastic optimization.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - discrete and stochastic optimization
+  - data analytics and statistical learning
+  - data-driven decision making
+  - parallel computing
+  - and heuristics techniques
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,23 +26,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mississippi State University
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Industrial and Systems Engineering
+      institution: Mississippi State University
+    - course: MSc in Industrial Engineering
+      institution: Sharif University of Technology
+    - course: BSc in Industrial Engineering
+      institution: Sharif University of Technology
+email: aa2683@msstate.edu
 superuser: true
 highlight_name: false
 ---
-Amin Aghalari is a Ph.D. student.
+Amin Aghalari is a Ph.D. student in Industrial and Systems Engineering at Mississippi State University, USA. He received the B.S. and M.S. degrees in industrial and system engineering at Sharif University of Technology, Tehran, Iran, in 2015 and 2018, respectively. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
