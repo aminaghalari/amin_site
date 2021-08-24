@@ -29,11 +29,11 @@ organizations:
   - name: Mississippi State University
 education:
   courses:
-    - course: PhD in Industrial and Systems Engineering
+    - course: Ph.D. in Industrial and Systems Engineering
       institution: Mississippi State University
-    - course: MSc in Industrial Engineering
+    - course: M.Sc. in Industrial Engineering
       institution: Sharif University of Technology
-    - course: BSc in Industrial Engineering
+    - course: B.Sc. in Industrial Engineering
       institution: Sharif University of Technology
 email: aa2683@msstate.edu
 superuser: true
