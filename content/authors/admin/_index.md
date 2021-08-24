@@ -27,6 +27,7 @@ social:
     link: https://github.com/aminaghalari
 organizations:
   - name: Mississippi State University
+    url: https://www.msstate.edu/
 education:
   courses:
     - course: Ph.D. in Industrial and Systems Engineering
