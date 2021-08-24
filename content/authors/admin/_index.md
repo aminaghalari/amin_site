@@ -12,10 +12,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: aminaghalari@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/agayelari
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=ZkvQg6UAAAAJ
@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/amin-aghalari/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aminaghalari
 organizations:
   - name: Mississippi State University
 education:
